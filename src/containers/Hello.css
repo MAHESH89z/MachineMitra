@@ -1,0 +1,13 @@
+h1{
+    background-color: brown;
+    font-style: italic;
+    color: aqua;
+    display: inline-flex;
+}
+
+p{
+    background-color: blue;
+    font-style: oblique;
+    color: aquamarine;
+    display: inline-block;
+}
