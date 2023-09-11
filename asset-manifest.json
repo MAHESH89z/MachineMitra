@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/machinemitra/static/css/main.72954f7c.css",
+    "main.js": "/machinemitra/static/js/main.505e2adb.js",
+    "static/js/787.82153421.chunk.js": "/machinemitra/static/js/787.82153421.chunk.js",
+    "static/media/SEGA.woff": "/machinemitra/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/machinemitra/index.html",
+    "main.72954f7c.css.map": "/machinemitra/static/css/main.72954f7c.css.map",
+    "main.505e2adb.js.map": "/machinemitra/static/js/main.505e2adb.js.map",
+    "787.82153421.chunk.js.map": "/machinemitra/static/js/787.82153421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72954f7c.css",
+    "static/js/main.505e2adb.js"
+  ]
+}
